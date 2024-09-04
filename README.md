@@ -1,6 +1,6 @@
-# Real-Time Face Emotion Detection and Music Recommendation Application
+# NikolAI- Emotion-Responsive Music Player
 
-This project uses computer vision and deep learning to detect facial emotions in real-time and recommend songs based on the detected emotion.
+This project uses computer vision and deep learning to detect facial emotions in real-time and recommend songs based on the detected emotion on Raspberry Pi.
 
 ## Prerequisites
 
@@ -69,6 +69,9 @@ python app.py
 - **No songs found for the label**: Check if the CSV file has songs labeled correctly for the detected emotions.
 - **Invalid input to stop the song**: Make sure to enter 's' correctly in the console to stop the song playback.
 
+## Demonstration
+- You can view the demonstration fot he project at this link:
+- https://drive.google.com/drive/folders/1NeFac56Sh_IGwYZzLtY_tbCWnDKtAOdJ?usp=drive_link
 
 
 

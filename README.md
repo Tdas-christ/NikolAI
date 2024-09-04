@@ -49,7 +49,7 @@ python app.py
 ### User Interaction
 
 - **Press 'c'**: Capture the current frame from the webcam, detect the emotion, and recommend a song based on the detected emotion.
-- **Press 'q'**: Quit the application and close the webcam.
+- **Press 's'**: Stop the music and close the webcam.
 
 ### Song Recommendation
 

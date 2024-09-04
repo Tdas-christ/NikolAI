@@ -1,0 +1,8 @@
+opencv-python
+numpy
+pandas
+pygame
+tensorflow
+keras
+transformers
+torch

@@ -20,7 +20,7 @@ Run pip install -r requirements.txt in your terminal.
 
 ## Files & Directory Structure:
 
-Specialization_Project/
+SPRO/
 │
 ├── models/
 │   ├── emotion_model1.json
@@ -32,12 +32,11 @@ Specialization_Project/
 │   ├── selected_tracks_info.csv
 │   ├── downloaded_songsv2/
 │
-├── main_script.py
+├── app.py
 └── result_image.png
 
 ## How to Run the Code:
 
-cd Specialization_Project
 python app.py
 
 ## Instructions
@@ -70,6 +69,8 @@ python app.py
 - **Invalid input to stop the song**: Make sure to enter 's' correctly in the console to stop the song playback.
 
 ## Demonstration
+
+![Screenshot from 2024-08-24 07-23-39](https://github.com/user-attachments/assets/765dddc7-1030-436f-b6eb-cb5b698969a2)
 
 - You can view the demonstration of the project at this link:
 - https://drive.google.com/drive/folders/1NeFac56Sh_IGwYZzLtY_tbCWnDKtAOdJ?usp=drive_link
